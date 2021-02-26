@@ -6,6 +6,12 @@ Template repository for the Jetpack Compose [#AndroidDevChallenge](https://devel
 Copy this repository by pressing the "Use this template" button in Github.
 Clone your repository and open it in the latest [Android Studio (Canary build)](https://developer.android.com/studio/preview).
 
+##Screenshots
+![First Screen](Screenshots/Screenshot_20210226-140409.png)
+![Display Screen](Screenshots/Screenshot_20210226-140417.png)
+![Video](Screenshots/mobizen_20210226_140340.mp4)
+
+
 ## Submission requirements
 - Follow the challenge description on the project website: [developer.android.com/dev-challenge](https://developer.android.com/dev-challenge)
 - All UI should be written using Jetpack Compose
