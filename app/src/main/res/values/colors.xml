@@ -17,4 +17,39 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="colorAccent">#FFA000</color>
+    <color name="colorPrimary">#E64A19</color>
+    <color name="colorGrey">#656565</color>
+    <color name="colorOrange">#E64A19</color>
+
+
+    <color name="color1">#625772</color>
+    <color name="color11">#514561</color>
+    <color name="color2">#F38181</color>
+    <color name="color22">#D36565</color>
+    <color name="color21">#F49E9E</color>
+    <color name="color3">#FEFAEC</color>
+    <color name="color31">#F3F3F3</color>
+    <color name="color4">#A9EEE6</color>
+
+    <color name="color5">#2EB872</color>
+    <color name="color51">#A1FACD</color>
+    <color name="color52">#00A652</color>
+    <color name="color6">#A3DE83</color>
+    <color name="color7">#FA4659</color>
+    <color name="color71">#F83146</color>
+    <color name="color72">#F1A1A9</color>
+    <color name="color8">#EFFE</color>
+    <color name="color9">#FAB60D</color>
+
+    <color name="toolbar">#1EA2F4</color>
+    <!--    <color name="toolbar">#FF4773</color>-->
+
+    <color name="color_1">#26B24B</color>
+    <color name="color_2">#9A1890</color>
+    <color name="color_3">#FF4773</color>
+    <color name="color_4">#FECD1A</color>
+    <color name="color_5">#FFFFFF</color>
+    <color name="bottom_nav_bar">#1EA2F4</color>
 </resources>
